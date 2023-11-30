@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UY94NnjxzFOvZRDOIOvWar8wZ9mzsJApgHWSz6ED+3YMNKHKeGHi+DVBXvfvTe01e/t8S7+AuqCD5Q0eqUUJLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikano\\OneDrive\\Радна површина\\dotnet-rpg\\dotnet-rpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikano\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "C:\\Users\\ikano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ikano\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ikano\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ikano\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ikano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ikano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
