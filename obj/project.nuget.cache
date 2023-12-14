@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TiMDS83+rHOxFgZlipFRSrNi2jCsJuh5UeN9CqjUqHppBJgUUupkq7KJ/PYH4k1QyHhmwncnCAjDG5HcTc5EtQ==",
+  "dgSpecHash": "VT7W93gzLuYqqV3ItloiO+ln5RrYitPb5rh9TPkaL6ABsFbCIHfEVlDO6GOchoo7Wh6BBXUELBdaieHVX1qXPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ikano\\OneDrive\\Радна површина\\dotnet-rpg\\dotnet-rpg.csproj",
+  "projectFilePath": "C:\\Users\\ikano\\OneDrive\\Радна површина\\coding\\dotnet-rpg\\dotnet-rpg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ikano\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ikano\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
